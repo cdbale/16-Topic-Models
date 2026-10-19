@@ -174,7 +174,7 @@ Word frequencies *suggest* overall meaning, but we would like to uncover the dif
 - **Evaluate:** inspect fit, topic distinctiveness, stability, and representative documents.
 - **Apply:** organize customer feedback and identify questions worth investigating.
 
-Unlike the supervised tasks in lectures 14-15, we have no known topic labels against which to compute ordinary classification accuracy.
+Unlike the supervised tasks in lectures 13-14, we have no known topic labels against which to compute ordinary classification accuracy.
 
 ## Fit LDA
 
@@ -378,7 +378,7 @@ Topic models are great - but do we have another tool that is adept at analyzing 
 
 - *Text Mining with R*
 
-## Exercise 18
+## Exercise 15
 
 1. Run a topic model with three topics in `roomba_reviews`.
 2. Visualize the topics and name them. Justify your names.
